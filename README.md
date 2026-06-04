@@ -2,7 +2,7 @@
 
 <!-- 로고/배너 이미지 영역 -->
 <!-- 여기에 프로젝트 로고 또는 배너 이미지를 넣어주세요 -->
-<img src="./image/banner/해피너스_최종배너.png" alt="HappyNurse 로고" width="600"/>
+<img src="./image/banner/해피너스_최종배너.png" alt="HappyNurse 로고" width="500"/>
 
 # HappyNurse
 
@@ -127,8 +127,8 @@ HappyNurse는 다음 문제를 해결하고자 합니다.
     <th>App</th>
   </tr>
   <tr>
-    <td align="center"><img src="./image/인수인계.png" width="700"/></td>
-    <td align="center"><img src="./image/앱인수인계.gif" width="240"/></td>
+    <td align="center"><img src="./image/인수인계.png" width="750"/></td>
+    <td align="center"><img src="./image/앱인수인계.gif" width="180"/></td>
   </tr>
 </table>
 
@@ -660,7 +660,7 @@ frontend/
 <div align="center">
 
 <a href="https://youtu.be/uzQpA21Kzg4">
-  <img src="https://img.youtube.com/vi/uzQpA21Kzg4/maxresdefault.jpg" alt="HappyNurse 영상 포트폴리오" width="700"/>
+  <img src="https://img.youtube.com/vi/uzQpA21Kzg4/maxresdefault.jpg" alt="HappyNurse 영상 포트폴리오" width="500"/>
 </a>
 
 <br/>
