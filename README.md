@@ -105,8 +105,8 @@ HappyNurse는 다음 문제를 해결하고자 합니다.
     <th>App</th>
   </tr>
   <tr>
-    <td align="center"><img src="./image/간호일지.png" width="640"/></td>
-    <td align="center"><img src="./image/앱간호일지.gif" width="200"/></td>
+    <td align="center"><img src="./image/간호일지.png" width="750"/></td>
+    <td align="center"><img src="./image/앱간호일지.gif" width="180"/></td>
   </tr>
 </table>
 
@@ -127,8 +127,8 @@ HappyNurse는 다음 문제를 해결하고자 합니다.
     <th>App</th>
   </tr>
   <tr>
-    <td align="center"><img src="./image/인수인계.png" width="700"/></td>
-    <td align="center"><img src="./image/앱인수인계.gif" width="240"/></td>
+    <td align="center"><img src="./image/인수인계.png" width="750"/></td>
+    <td align="center"><img src="./image/앱인수인계.gif" width="180"/></td>
   </tr>
 </table>
 
