@@ -219,7 +219,7 @@ HappyNurse는 다음 문제를 해결하고자 합니다.
   </tr>
   <tr>
     <td align="center"><img src="./image/환자팔찌.gif" width="240"/></td>
-    <td align="center"><img src="./image/환자도움요청.gif" width="240"/></td>
+    <td align="center"><img src="./image/환자도움요청.gif" width="200"/></td>
     <td align="center"><img src="./image/긴급알림_원형.png" width="220"/></td>
   </tr>
 </table>
@@ -241,8 +241,8 @@ HappyNurse는 다음 문제를 해결하고자 합니다.
     <th>실시간 잔량 모니터링</th>
   </tr>
   <tr>
-    <td align="center"><img src="./image/수액타이머설정.gif" width="260"/></td>
-    <td align="center"><img src="./image/수액실시간.gif" width="260"/></td>
+    <td align="center"><img src="./image/수액타이머설정.gif" width="220"/></td>
+    <td align="center"><img src="./image/수액실시간.gif" width="220"/></td>
   </tr>
 </table>
 
