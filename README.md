@@ -68,7 +68,7 @@ NFC 태깅으로 환자와 약물을 즉시 인식하고, 음성(STT)으로 간�
 <!-- 프로젝트 대표 GIF 또는 메인 화면 이미지 영역 -->
 <!-- 여기에 프로젝트 전체를 보여주는 대표 GIF를 넣어주세요 -->
 <div align="center">
-<img src="./image/슬라이드25.PNG"/>
+<img src="./image/슬라이드25.PNG"  height="420" />
 </div>
 
 <br/>
